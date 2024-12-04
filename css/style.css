@@ -1,5 +1,5 @@
 body{
-    background-color: rgb(191, 182, 189);
+    background-color: rgb(133, 119, 128);
     font-family: Arial, Helvetica, sans-serif;
 }
 #container{
@@ -17,4 +17,7 @@ body{
     text-align: center;
     font-size: large;
     font-family: 'Times New Roman', Times, serif;
+}
+#container:hover {
+    background-color: rgb(114, 123, 123);
 }
