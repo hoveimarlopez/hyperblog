@@ -1,12 +1,12 @@
 body{
-    background-color: rgb(133, 119, 128);
+    background-color: rgb(182, 156, 173);
     font-family: Arial, Helvetica, sans-serif;
 }
 #container{
     width: 70%;
     padding: 1em;
     text-align: center;
-    border: 1px solid chocolate;
+    border: 3px solid rgb(107, 65, 35);
     margin: 0 auto;
 }
 
@@ -20,4 +20,14 @@ body{
 }
 #container:hover {
     background-color: rgb(114, 123, 123);
+}
+
+#cabecera
+{
+    background-color: rgb(74, 74, 200);
+    color: white;
+    margin: 0;
+    padding: 0.5em;
+    box-shadow: 0px 2px 0px 0px rgb(67, 71, 63);
+    font-weight: bold;
 }
